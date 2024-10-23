@@ -28,6 +28,25 @@
   color: #61dafb;
 }
 
+.banner {
+  background-color: #049fd9;
+  padding: 20px;
+  text-align: center;
+}
+
+.banner h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+.exhibit {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 20px;
+  background-color: #f9f9f9;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
